@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ByFelez</h1>
 <h3 align="center">Hi ! I am a Software Developer with Python, C++ and JavaScript.</h3>
 
-<h3 align="left">Connect with me:by.felez@yandex.com</h3>
+<h3 align="left">Connect with me: by.felez@yandex.com</h3>
 <p align="left">
 </p>
 
