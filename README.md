@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ByFelez</h1>
-<h3 align="center">Hi ! I am a Software Developer with Python, C++ and JavaScript.</h3>
+<h3 align="center">Hi ! I am a Software Developer with Python, C++, Ruby and JavaScript.</h3>
 
 <h3 align="left">Connect with me:byfelez1@outlook.com</h3>
 <p align="left">
